@@ -4,7 +4,9 @@
   box-sizing: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: #111;
-  color: azure;
+}
+html{
+  color: white;
 }
 a{
   text-decoration: none;
