@@ -31,3 +31,5 @@ Other Components:
 The Navigation bar offers a search bar for shoe queries and icons for wishlist, shopping cart, and user accounts.
 Recommendations section provides quick filters for top brands like Nike, Adidas, Puma, and Vans.
 The Sidebar comprises sections for Categories (like sneakers, flats, etc.), Colors (black, blue, etc.), and Price ranges.
+
+Deployed final version of project - https://snazzy-cassata-b395f9.netlify.app/
